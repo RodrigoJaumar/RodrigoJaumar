@@ -5,7 +5,7 @@
 ### 🚀 Data Engineer | Big Data | Cloud | AI Engineering
 
 <img 
-    src="https://drive.google.com/uc?export=view&id=1Cz_4VqkUMVATr7pjxV2U8eQsnZ0Pu1MP" 
+    src="https://drive.google.com/uc?export=view&id=1ot7SgfPuSSDOxWtEVeRipWYNmi-fmuja" 
     width="900" 
     alt="Rodrigo Jauregui Banner"
 />
