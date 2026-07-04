@@ -75,8 +75,8 @@
 <div align="center">
 
 ### 🚀 Building the largest Data & AI community for students and professionals
--Vision: To be the Data Science and Big Data learning community with the greatest reach and potential among young professionals across Latin America.
--Mission: To generate impact within the Data Science and Big Data community by fostering collective growth through continuous innovation in learning methods.
+#Vision: To be the Data Science and Big Data learning community with the greatest reach and potential among young professionals across Latin America.
+#Mission: To generate impact within the Data Science and Big Data community by fostering collective growth through continuous innovation in learning methods.
 <img src="https://drive.google.com/uc?export=view&id=1SBWYWQCeFraOfmYh7L0GP2_LhzhAuuiu" width="900"/>
 <img src="https://drive.google.com/uc?export=view&id=1Cz_4VqkUMVATr7pjxV2U8eQsnZ0Pu1MP" width="500"/>
 </div>
@@ -96,7 +96,7 @@
 <div align="center">
 <a href="https://drive.google.com/uc?export=view&id=1ikpdVsGFWPEudA27dCKZIxKC5zrF7JCw" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1ikpdVsGFWPEudA27dCKZIxKC5zrF7JCw" width="400" alt="University Talks"></a>
 <p>
-<a href="https://github.com/Rodrigo/Android-Expert" target="_blank">
+<a href="https://github.com/Rodrigo/" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/watch?v=bz1RlB8kZxc" target="_blank">
@@ -115,7 +115,7 @@
 <a href="https://drive.google.com/uc?export=view&id=1jhQ64uWk7y0eMN1tNqi8lBPwzDKILfwf" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1jhQ64uWk7y0eMN1tNqi8lBPwzDKILfwf" width="400" alt="Teaching Big Data fundamentals"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/Rodrigo/" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/watch?v=F53lqHStqd0" target="_blank">
