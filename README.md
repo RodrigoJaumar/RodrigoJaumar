@@ -4,7 +4,7 @@
 
 ### 🚀 Data Engineer | Big Data | Cloud | AI Engineering
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/rodrigo-speaker.jpg" width="900"/>
+<img src="[https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/rodrigo-speaker.jpg](https://drive.google.com/file/d/1Cz_4VqkUMVATr7pjxV2U8eQsnZ0Pu1MP/view?usp=sharing)" width="900"/>
 
 </div>
 
