@@ -75,9 +75,10 @@
 <div align="center">
 
 ### 🚀 Building the largest Data & AI community for students and professionals
-
+<p>Vision: To be the Data Science and Big Data learning community with the greatest reach and potential among young professionals across Latin America.
+Mission: To generate impact within the Data Science and Big Data community by fostering collective growth through continuous innovation in learning methods.</p>
 <img src="https://drive.google.com/uc?export=view&id=1SBWYWQCeFraOfmYh7L0GP2_LhzhAuuiu" width="900"/>
-<img src="https://drive.google.com/uc?export=view&id=1Cz_4VqkUMVATr7pjxV2U8eQsnZ0Pu1MP" width="900"/>
+<img src="https://drive.google.com/uc?export=view&id=1Cz_4VqkUMVATr7pjxV2U8eQsnZ0Pu1MP" width="500"/>
 </div>
 
 ## 🎤 Conferences, Workshops & Meetups
