@@ -110,7 +110,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Teaching Big Data fundamentals/h3>
+<h3 align="center">Teaching Big Data fundamentals</h3>
 <div align="center">                                       
 <a href="https://drive.google.com/uc?export=view&id=1jhQ64uWk7y0eMN1tNqi8lBPwzDKILfwf" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1jhQ64uWk7y0eMN1tNqi8lBPwzDKILfwf" width="400" alt="Teaching Big Data fundamentals"></a>
 <br>
