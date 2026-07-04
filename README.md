@@ -4,7 +4,7 @@
 
 ### 🚀 Data Engineer | Big Data | Cloud | AI Engineering
 
-<img src="https://drive.google.com/file/d/1Cz_4VqkUMVATr7pjxV2U8eQsnZ0Pu1MP/view?usp=sharing" width="900"/>
+<img src="https://drive.google.com/uc?export=view&id=1Cz_4VqkUMVATr7pjxV2U8eQsnZ0Pu1MP" width="900"/>
 
 </div>
 
