@@ -130,7 +130,7 @@
 
 ### 🚀 Building the largest Data & AI community for students and professionals
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/datagrowth-community.jpg" width="900"/>
+<img src="https://drive.google.com/uc?export=view&id=1SBWYWQCeFraOfmYh7L0GP2_LhzhAuuiu" width="900"/>
 
 </div>
 
