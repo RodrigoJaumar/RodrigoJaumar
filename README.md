@@ -94,7 +94,7 @@
 <td width="50%">
 <h3 align="center">University Talks</h3>
 <div align="center">
-<a href="https://drive.google.com/uc?export=view&id=1ikpdVsGFWPEudA27dCKZIxKC5zrF7JCw" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="University Talks"></a>
+<a href="https://drive.google.com/uc?export=view&id=1ikpdVsGFWPEudA27dCKZIxKC5zrF7JCw" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1ikpdVsGFWPEudA27dCKZIxKC5zrF7JCw" width="400" alt="University Talks"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
