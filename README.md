@@ -71,12 +71,27 @@
 
 ---
 
-## ⛏️ Antamina — Data Engineer
+## ⛏️ Antamina / Touch consultin — Data Engineer
 
 - Built Lakehouse solutions using AWS + Databricks.
 - Implemented Bronze 🥉 Silver 🥈 Gold 🥇 architecture.
 - Developed CI/CD & Infrastructure as Code with Terraform.
 
+---
+
+## 🌎 Rimac Seguros — Data Engineer
+
+- Built Lakehouse solutions using GCP 
+- Orchestration with Composer ensuring high availability.
+- Developed CI/CD & Infrastructure as Code with Jenkins.
+
+---
+
+## 🌎 Data Science Research Perú — Data Engineer
+
+- Migration Datawarehouse solutions using SSIS -> GCP
+- Star and snowflake modeling for datamarts.
+- Operationalizing dashboards with key business indicators.
 ---
 
 # 🌐 Data Growth Community
