@@ -90,7 +90,6 @@
 - Real-Time Processing
 
 <table>
-<tr>
 <td width="50%">
 <h3 align="center">University Talks</h3>
 <div align="center">
