@@ -96,7 +96,7 @@
 <div align="center">
 <a href="https://drive.google.com/uc?export=view&id=1ikpdVsGFWPEudA27dCKZIxKC5zrF7JCw" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1ikpdVsGFWPEudA27dCKZIxKC5zrF7JCw" width="400" alt="University Talks"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/Rodrigo/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/watch?v=bz1RlB8kZxc" target="_blank">
@@ -110,19 +110,19 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Teaching Big Data fundamentals/h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://drive.google.com/uc?export=view&id=1jhQ64uWk7y0eMN1tNqi8lBPwzDKILfwf" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1jhQ64uWk7y0eMN1tNqi8lBPwzDKILfwf" width="400" alt="Teaching Big Data fundamentals"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<a href="https://www.youtube.com/watch?v=F53lqHStqd0" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>At Datagrowth, we periodically launch study groups where various professionals introduce young professionals to the world of data.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
