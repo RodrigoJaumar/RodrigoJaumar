@@ -1,18 +1,10 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Rodrigo Jáuregui</h1>
-<h3 align="center">🚀 Data Engineer | Big Data | Cloud | AI Engineering</h3>
-</div>
 
-<img src="TU_IMAGEN_GITHUB_AQUI">
+# Hi 👋, I'm Rodrigo Jáuregui
 
-<div align="center">
+### 🚀 Data Engineer | Big Data | Cloud | AI Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Jáuregui-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social)](https://github.com/TU_USUARIO)
-[![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-red?style=flat-square&logo=databricks)]
-[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws)]
-[![GCP](https://img.shields.io/badge/GCP-BigData-blue?style=flat-square&logo=googlecloud)]
-[![Azure](https://img.shields.io/badge/Azure-DataEngineering-0078D4?style=flat-square&logo=microsoftazure)]
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/rodrigo-speaker.jpg" width="900"/>
 
 </div>
 
@@ -20,19 +12,24 @@
 
 # 💫 About Me
 
-🚀 Data Engineer with **6+ years of experience** building scalable data ecosystems and cloud-native solutions.  
+🚀 Data Engineer with **6+ years of experience** building scalable data ecosystems and cloud-native platforms.
 
-☁️ Experienced working with **AWS, Azure, GCP & Databricks** in enterprise environments.  
+☁️ Specialized in modern cloud architectures using:
+- AWS
+- Azure
+- GCP
+- Databricks
 
-📊 Specialized in:
+📊 Strong experience in:
 - ETL / ELT Pipelines
 - Lakehouse Architectures
 - Data Lakes & Datamarts
-- Big Data & Spark
+- Spark & Distributed Computing
 - Data Governance
-- AI Productization
+- AI Engineering
+- Real Time Analytics
 
-🏦 Worked on projects for:
+🏦 Industry experience:
 - Banking
 - Mining
 - Insurance
@@ -41,9 +38,30 @@
 - Data Engineering
 - Artificial Intelligence
 - Cloud Computing
-- Real Time Architectures
+- Analytics Communities
+- AI Productization
 
-🎤 Speaker & Mentor in Big Data, Analytics & AI Engineering communities.
+🎤 International Speaker & Mentor in Big Data, Analytics & AI Engineering communities.
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+</a>
+
+<a href="https://github.com/TU_USUARIO">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</a>
+
+<a href="https://www.youtube.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+</a>
+
+</div>
 
 ---
 
@@ -51,23 +69,30 @@
 
 <div align="center">
 
-### ☁️ Cloud & Big Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks)
+## ☁️ Cloud & Big Data
 
-### ⚙️ Data Engineering
-![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="70"/>
 
-### 💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+## ⚙️ Data Engineering
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="70"/>
+
+---
+
+## 💻 Languages & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70"/>
 
 </div>
 
@@ -75,20 +100,77 @@
 
 # 🏆 Featured Experience
 
-### 🏦 Interbank — Data Engineer
+## 🏦 Interbank — Data Engineer
+
 - Automated Data Governance frameworks in AWS & Teradata.
 - Developed metadata, lineage & data quality solutions.
 - Built scalable cloud-native architectures.
 
-### ☁️ BCP / Indra — Big Data Engineer
+---
+
+## ☁️ BCP / Indra — Big Data Engineer
+
 - Migrated enterprise workloads to Azure + Databricks.
 - Productized AI & Analytics models in cloud environments.
 - Developed ETL/ELT pipelines with Spark & Databricks.
 
-### ⛏️ Antamina — Data Engineer
+---
+
+## ⛏️ Antamina — Data Engineer
+
 - Built Lakehouse solutions using AWS + Databricks.
-- Implemented Bronze 🥉 Silver 🥈 Gold 🥇 medallion architecture.
+- Implemented Bronze 🥉 Silver 🥈 Gold 🥇 architecture.
 - Developed CI/CD & Infrastructure as Code with Terraform.
+
+---
+
+# 🌐 Data Growth Community
+
+<div align="center">
+
+### 🚀 Building the largest Data & AI community for students and professionals
+
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/datagrowth-community.jpg" width="900"/>
+
+</div>
+
+## 🎤 Conferences, Workshops & Meetups
+
+- Big Data Engineering
+- Databricks & Lakehouse
+- Cloud Architectures
+- AI Engineering
+- Analytics & Governance
+- Real-Time Processing
+
+## 📸 Community Moments
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/speaker-session.jpg" width="420"/>
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/community-group.jpg" width="420"/>
+
+</div>
+
+---
+
+# 🎥 Featured Talks & Events
+
+## 📺 Cyber Data Summit — Cloud Data Lake
+
+[![Watch Video](https://img.youtube.com/vi/bz1RlB8kZxc/maxresdefault.jpg)](https://www.youtube.com/watch?v=bz1RlB8kZxc)
+
+## 📺 Big Data & AI Engineering
+
+[![Watch Video](https://img.youtube.com/vi/F53lqHStqd0/maxresdefault.jpg)](https://www.youtube.com/watch?v=F53lqHStqd0)
+
+## 📺 Databricks & Analytics
+
+[![Watch Video](https://img.youtube.com/vi/xcnVAy9nzEY/maxresdefault.jpg)](https://www.youtube.com/watch?v=xcnVAy9nzEY)
+
+## 📺 Data Engineering Community Session
+
+[![Watch Video](https://img.youtube.com/vi/jIHN3LawO8A/maxresdefault.jpg)](https://www.youtube.com/watch?v=jIHN3LawO8A)
 
 ---
 
@@ -103,12 +185,18 @@
 
 ---
 
+# 📈 Current Focus
 
+✨ AI Engineering & LLM Applications  
+✨ Modern Lakehouse Architectures  
+✨ Real-Time Data Platforms  
+✨ Cloud Native Analytics  
+✨ Data Governance & Metadata  
 
 ---
 
 <div align="center">
 
-### 🚀 “Turning raw data into intelligent decisions.”
+# 🚀 “Turning raw data into intelligent decisions.”
 
 </div>
