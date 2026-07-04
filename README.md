@@ -77,7 +77,7 @@
 ### 🚀 Building the largest Data & AI community for students and professionals
 
 <img src="https://drive.google.com/uc?export=view&id=1SBWYWQCeFraOfmYh7L0GP2_LhzhAuuiu" width="900"/>
-
+<img src="https://drive.google.com/uc?export=view&id=1Cz_4VqkUMVATr7pjxV2U8eQsnZ0Pu1MP" width="900"/>
 </div>
 
 ## 🎤 Conferences, Workshops & Meetups
@@ -122,7 +122,8 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>At Datagrowth, we periodically launch study groups where various professionals introduce young professionals to the world of data.</p>
+</p>
+<p> At Datagrowth, we periodically launch study groups where various professionals introduce young professionals to the world of data.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
