@@ -45,38 +45,11 @@
 
 ---
 
-# 🌎 Connect With Me
 
-<div align="center">
-
-<a href="https://linkedin.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-</a>
-
-<a href="https://github.com/TU_USUARIO">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</a>
-
-<a href="https://www.youtube.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
-</a>
-
-</div>
 
 ---
 
-# ⚡ Tech Stack
 
-<div align="center">
-
-## ☁️ Cloud & Big Data
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="70"/>
-
----
 
 ## ⚙️ Data Engineering
 
