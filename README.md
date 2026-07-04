@@ -123,7 +123,8 @@
 </a>
 </p>
 </p>
-<p> At Datagrowth, we periodically launch study groups where various professionals introduce young professionals to the world of data.</p>
+<p>At Datagrowth, we periodically launch study groups where various professionals introduce early-career professionals to the world of data. We are committed to passionate young people eager to learn, build hands-on labs, and foster a data-driven culture.</p>
+
 </div>                                                             
 </table>                                                                                 
 </div>
